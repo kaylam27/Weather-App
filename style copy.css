@@ -1,0 +1,81 @@
+.jumbotron {
+    margin-bottom:0px; 
+    background-color:slateblue; 
+}
+
+h2 {
+    color:white;
+    font-size:80px; 
+    font-weight:bold;
+}
+
+.search {
+    margin-bottom:10px;
+}
+
+.display {
+    margin-top:30px
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #ffffff;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#cityDiv{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+th{
+    background: slateblue;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+td{
+    background: #FAFAFA;
+    text-align: center;
+    font-size: 18px;
+}
+
+#rowDiv{
+    margin: auto;
+    width: 100%;
+}
+
+.info-icon{
+    text-align: center;
+}
+
+.info-icon i{
+    font-size: 60px;
+    margin-top: 10px;
+    color: slateblue;
+}  
+
+p {
+    color: slateblue;
+    text-align: center;
+}
+
+.text-primary {
+    color: slateblue;
+}
+
+h4 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color:slateblue;
+}
+
+.container {
+    padding: 0px;
+}
