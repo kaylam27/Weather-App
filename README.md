@@ -4,4 +4,4 @@
 
 Web Application to allow user to see current and five day forecast for chosen city.
 
-https://github.com/kaylam27/Weather-App
+https://kaylam27.github.io/Weather-App/
